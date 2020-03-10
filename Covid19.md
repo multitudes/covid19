@@ -5,20 +5,22 @@ tags: Data Science, FastAI, Translation
 excerpt: Covid-19, Ihre Gemeinschaft und Sie - eine datenwissenschaftliche Perspektive - Übersetzung des Artikels von Jeremy Howard und Rachel Thomas ins Deutsche
 --- -->
 
+## Covid-19, Ihre Gemeinschaft und Sie - eine datenwissenschaftliche Perspektive
 
 Geschrieben: 09 Mar 2020 von Jeremy Howard und Rachel Thomas
 
-<br>
-## Covid-19, Ihre Gemeinschaft und Sie - eine datenwissenschaftliche Perspektive
+<p>
 <br>
 <em>Covid-19, Ihre Gemeinschaft und Sie - eine datenwissenschaftliche Perspektive - Übersetzung des Artikels von Jeremy Howard und Rachel Thomas ins Deutsche</em>
 </br>
+</p>
 
 <!-- <style type="text/css">
 a { 
 color: #268bd2;
 }
 </style> -->
+
 
 > Wir sind Datenwissenschaftler - das heißt, unsere Aufgabe ist es, zu verstehen, wie man Daten analysiert und interpretiert. Wenn wir die Daten um Covid-19 analysieren, sind wir sehr besorgt.  Die anfälligsten Schichten der Gesellschaft, die Älteren und die Armen, sind am stärksten gefährdet, aber die Kontrolle der Ausbreitung und der Auswirkungen der Krankheit erfordert von uns allen eine Verhaltensänderung. Waschen Sie Ihre Hände gründlich und regelmäßig, vermeiden Sie Gruppen und Menschenansammlungen, sagen Sie Veranstaltungen ab und berühren Sie nicht Ihr Gesicht. In diesem Beitrag erklären wir, warum wir besorgt sind, und das sollten Sie auch sein. Für eine ausgezeichnete Zusammenfassung der wichtigsten Informationen, die Sie wissen müssen, lesen Sie [Corona in Brief](https://docs.google.com/document/u/1/d/1vumYWoiV7NlVoc27rMQvmVkVu5cOAbnaW_RKkq2RMaQ/mobilebasic?fbclid=IwAR0If1zzDDldgAy3DZmFhaxAmP046-dwAE_LCj3l9su2XLYpZe2By8mCj1A) von Ethan Alley (Präsident einer gemeinnützigen Organisation, die Technologien zur Verringerung der Risiken von Pandemien entwickelt).
 
